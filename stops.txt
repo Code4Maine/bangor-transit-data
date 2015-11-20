@@ -1,0 +1,45 @@
+stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type
+BGR_DEPOT,,Bangor Depot,,,,,,1
+SHAWS,,Shaws,,,,,,0
+BEAL,,Beal College,,,,,,0
+HANNAFORD,,Hannaford/Hampden Academy,,,,,,0
+HAMPDEN,,Downtown Hampden,,,,,,0
+ELM_MT_HOPE,,Elm/Mt Hope,,,,,,0
+KMART,,KMart,,,,,,0
+BGR_MALL,,Bangor Mall,,,,,,0
+TARGET,,Target,,,,,,0
+EMCC,,EMCC,,,,,,0
+BROADWAY,,Broadway,,,,,,0
+RIDGEWOOD,,Ridge-wood Drive,,,,,,0
+BGR_WALMART,,Wal-Mart,,,,,,0
+AIRPORT_MALL,,Airport Mall,,,,,,0
+HUSSON,,Husson Univ,,,,,,0
+BRAODWAY_CTR,,Broadway Shopping Center,,,,,,0
+OHIO,,Ohio Street,,,,,,0
+STJOE,,Saint Joseph Hospital,,,,,,0
+BGR_GARDENS,,Bangor Gardens,,,,,,0
+UNIONST,,Union Street,,,,,,0
+UNIV_COLLEGE,,Univ College,,,,,,0
+HAMMOND,,Hammond Street,,,,,,0
+BUCK_3RD,,Buck & 3rd,,,,,,0
+CEDAR_ST,,Cedar Street,,,,,,0
+EMHC,,EMHC,,,,,,0
+BIA_DHHS,,BIA/DHHS,,,,,,0
+BOLLING_DR,,Bolling Drive,,,,,,0
+CAPEHART,,Capehart,,,,,,0
+PCHC,,PCHC,,,,,,0
+S_MAIN_ELM,,South Main & Elm,,,,,,0
+BREWER_SHOP,,Brewer Shopping Center,,,,,,0
+BWR_WALMART,,Brewer Wal-Mart,,,,,,0
+BWR_MARDENS,,Brewer Mardens,,,,,,0
+NORTH_BREWER,,North Brewer,,,,,,0
+MILL_ST,,Mill Street,,,,,,0
+ORCHARD_TRAILS,,Orchard Trails,,,,,,0
+REC_CENTER,,Rec Center,,,,,,0
+UM_UNION,,UM Union,,,,,,0
+UNIV_MALL,,University Mall,,,,,,0
+GODFREY_DR,,Godfrey Drive,,,,,,0
+VEAZIE,,Veazie,,,,,,0
+OLD_TOWN,,Old Town,,,,,,0
+OLD_TOWN_PLZ,,Old Town Plaza,,,,,,0
+ORONO_PARK,,Orono Research Park,,,,,,0
